@@ -88,7 +88,6 @@ instead, 1rem = 1em = 16px */
     top: 0;
     right: 0;
     width: 100%;
-    overflow-x: clip;
     height: 100vh;
     background-color: #fff;
     transform: translateX(100%);
@@ -297,3 +296,4 @@ instead, 1rem = 1em = 16px */
     height: 1rem;
   }
 }
+
